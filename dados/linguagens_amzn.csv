@@ -149,3 +149,11 @@
 147,trans-encoder,Python
 148,user-satisfaction-modeling,Python
 149,workspace-resolver,JavaScript
+150,ws-vae,Python
+151,xfer,Python
+152,zeek-plugin-bacnet,Zeek
+153,zeek-plugin-enip,Zeek
+154,zeek-plugin-profinet,Zeek
+155,zeek-plugin-s7comm,Zeek
+156,zeek-plugin-tds,Zeek
+157,zero-shot-rlhr,Python
